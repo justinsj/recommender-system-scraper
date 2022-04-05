@@ -25,7 +25,7 @@ class DriverOptions(object):
         #self.options.add_argument('--start-fullscreen')
         self.options.add_argument('--single-process')
         self.options.add_argument('--disable-dev-shm-usage')
-        #self.options.add_argument("--incognito")
+        self.options.add_argument("--incognito")
         self.options.add_argument('--disable-blink-features=AutomationControlled')
         self.options.add_argument('--disable-blink-features=AutomationControlled')
         self.options.add_experimental_option('useAutomationExtension', False)
@@ -69,6 +69,8 @@ class WebDriver(DriverOptions):
 
         # data_dir = os.path.join(os.getcwd(), 'chrome','User Data');
         user_agent = 'Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36'
+        # ua = UserAgent()
+        # user_agent = ua.google
 
         username = os.getenv("USERNAME")
         #userProfile = "C:\\Users\\" + username + "\\AppData\\Local\\Google\\Chrome\\User Data"

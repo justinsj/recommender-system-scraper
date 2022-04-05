@@ -25,7 +25,7 @@ def every_downloads_chrome(driver):
 
 
 
-wait_for_element = 2  # wait timeout in seconds
+wait_for_element = 60  # wait timeout in seconds
 class AmazonWebsite:
     def __init__(self, driver):
         self.driver = driver
@@ -34,20 +34,31 @@ class AmazonWebsite:
         driver.get(url)
     def get_store_text(self):
         driver = self.driver;
+        try:
+            WebDriverWait(driver, wait_for_element).until(
+                EC.presence_of_element_located(
+                    (By.CSS_SELECTOR, "#bylineInfo")
+                )
+            )
+            
+        except:
+            pass
         return driver.find_element_by_css_selector('#bylineInfo').get_attribute('innerText')
     def get_image_src(self):
         driver = self.driver;
         return driver.find_element_by_css_selector('.image-size-wrapper.fp-image-wrapper.image-block-display-flex img').get_attribute('innerText')
     def get_details(self):
         driver = self.driver;
-
-        elem = WebDriverWait(driver, wait_for_element).until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, ".a-expander-prompt")
+        try:
+            elem = WebDriverWait(driver, wait_for_element).until(
+                EC.presence_of_element_located(
+                    (By.CSS_SELECTOR, ".a-expander-prompt")
+                )
             )
-        )
-        if (elem): 
-            driver.execute_script(" document.querySelector('.a-expander-prompt').click();")
+            if (elem): 
+                driver.execute_script(" document.querySelector('.a-expander-prompt').click();")
+        except:
+            pass
         rows = driver.find_elements_by_css_selector('#productOverview_feature_div .a-row:not(#poExpander)');
         details = {}
         for row in rows:

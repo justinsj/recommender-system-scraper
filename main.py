@@ -3,23 +3,30 @@ import pandas as pd
 from classes.clients import clients
 import traceback
 import json
+import time
 
 from constants.data import data
-
+min_i = 86
 def main(links, output_path):
     amazon_client = clients.Amazon()
 
     results = data
-    for key in results:
-        result = results[key]
-        link = result['link']
-        node_data = amazon_client.GetNodeData(link)
-        result['storeText'] = node_data['storeText']
-        result['imageSrc'] = node_data['imageSrc']
-        result['details'] = node_data['details']
-        result['productId'] = node_data['productId']
-        
-        results[key] = result
+
+    with open('tmp.' + output_path , 'a') as f:
+        for key in results:
+            if (int(key.replace('refrigerator','')) < min_i): continue
+            result = results[key]
+            link = result['link']
+            node_data = amazon_client.GetNodeData(link)
+            result['storeText'] = node_data['storeText']
+            result['imageSrc'] = node_data['imageSrc']
+            result['details'] = node_data['details']
+            result['productId'] = node_data['productId']
+            
+            results[key] = result
+            f.write(f'"{key}": {json.dumps(result, indent=2)},\n')
+            time.sleep(3)
+            #print("\n\n\nresults: ", results)
     # Output file if path is provided
     if (output_path):
         print("Saving to: ", output_path)

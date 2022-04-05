@@ -4,9 +4,11 @@ from classes.clients import clients
 import traceback
 import json
 import time
+import requests
+import os
 
 from constants.data import data
-min_i = 86
+min_i = 0
 def main(links, output_path):
     amazon_client = clients.Amazon()
 
@@ -18,13 +20,23 @@ def main(links, output_path):
             result = results[key]
             link = result['link']
             node_data = amazon_client.GetNodeData(link)
-            result['storeText'] = node_data['storeText']
-            result['imageSrc'] = node_data['imageSrc']
-            result['details'] = node_data['details']
-            result['productId'] = node_data['productId']
+            # result['storeText'] = node_data['storeText']
+            result['imageSrcUrl'] = node_data['imageSrc']
+            # result['details'] = node_data['details']
+            # result['productId'] = node_data['productId']
             
             results[key] = result
+
+            img_data = requests.get(result['imageSrc']).content
+
+            img_name = key + '.jpg'
+            with open(os.path.join('images',img_name), 'wb') as handler:
+                handler.write(img_data)
+
+            result['imageSrc'] = '[pre]' + img_name + '[post]'
             f.write(f'"{key}": {json.dumps(result, indent=2)},\n')
+
+            
             time.sleep(3)
             #print("\n\n\nresults: ", results)
     # Output file if path is provided

@@ -46,7 +46,7 @@ class AmazonWebsite:
         return driver.find_element_by_css_selector('#bylineInfo').get_attribute('innerText')
     def get_image_src(self):
         driver = self.driver;
-        return driver.find_element_by_css_selector('.image-size-wrapper.fp-image-wrapper.image-block-display-flex img').get_attribute('innerText')
+        return driver.find_element_by_css_selector('#image-block img').get_attribute('src')
     def get_details(self):
         driver = self.driver;
         try:
@@ -74,15 +74,15 @@ class AmazonWebsite:
         match = re.search('\/[A-Z0-9]{10}', currentURL)
         return match[0][1:]
     def get_node_data(self):
-        storeText = self.get_store_text()
+        # storeText = self.get_store_text()
         imageSrc = self.get_image_src()
-        details = self.get_details()
-        productId = self.get_product_id()
+        # details = self.get_details()
+        # productId = self.get_product_id()
         return {
-            "storeText": storeText,
+            # "storeText": storeText,
             "imageSrc": imageSrc,
-            "details": details,
-            "productId": productId,
+            # "details": details,
+            # "productId": productId,
         }
 
     def close(self):

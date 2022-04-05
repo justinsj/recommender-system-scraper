@@ -1,0 +1,16 @@
+{
+    "ZoomInfo": {
+        "ContactSearch": {
+            "JobTitle": "CEO, CFO, COO, CTO, President, Vice President, Director, Owner, NOT Assistant, NOT Sales, NOT Marketing",
+            "Alternative":{
+                "JobFunction":"Operations, General Management, Information Technology, General Finance",
+                "ManagementLevel":"C-Level, VP-Level, Director"
+            }
+        }
+    },
+    "Salesforce": {
+        "BusDevLead": "0054W00000EADfNQAX",
+        "DataSource": "ZoomInfo",
+        "AutomationSource":"BDR Automation Tool"
+    }
+}

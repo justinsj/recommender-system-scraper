@@ -9,7 +9,7 @@ import os
 
 from constants.data import data
 min_i = 0
-def main(links, output_path):
+def main(output_path):
     amazon_client = clients.Amazon()
 
     results = data
@@ -27,7 +27,7 @@ def main(links, output_path):
             
             results[key] = result
 
-            img_data = requests.get(result['imageSrc']).content
+            img_data = requests.get(node_data['imageSrc']).content
 
             img_name = key + '.jpg'
             with open(os.path.join('images',img_name), 'wb') as handler:
@@ -48,8 +48,8 @@ def main(links, output_path):
         #     )
         # output_df.to_csv(output_path)
 
-        with open(output_path + '.js', 'w+') as f:
-            f.write('const data = ' + json.dumps(results,indent=2))
+        with open(output_path, 'w+') as f:
+            f.write('export const data = ' + json.dumps(results,indent=2))
 
     print("""
 *******************
@@ -59,23 +59,10 @@ def main(links, output_path):
 if __name__ == '__main__':
     # Load command line arguments
     parser = argparse.ArgumentParser(description='Export leads from csv into Salesforce')
-    parser.add_argument('file_path', type=str, help='path to csv file with links and no headers')
 
     parser.add_argument('-o','--out_path', type=str, default='outfile', help='if provided, writes output to the given path')
     parser.add_argument('--test', default=False, action='store_true')
 
     args = parser.parse_args()
 
-    path = args.file_path
-    links = []
-    # For each path that matches (Starts with "Contact_export")
-    try:
-        df = pd.read_csv(path, header=None)
-
-        # Create contact_enriched
-        for index, row in df.iterrows():
-            link = row[0]
-            links.append(link)
-    except:
-        traceback.print_exc()
-    main(links, args.out_path)
+    main(args.out_path)

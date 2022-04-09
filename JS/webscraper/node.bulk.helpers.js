@@ -9,27 +9,15 @@ const data = {
     "price": 279.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator0.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_aps_sr_pg1_1?ie=UTF8&adId=A091233718MHU5YN7CKDY&url=%2FCOMFEE-Refrigerator-Appearance-Adjustable-Temperature%2Fdp%2FB08T8Y5HK1%2Fref%3Dmp_s_a_1_1_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649134428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-1-spons%26psc%3D1&qualifier=1649134428&id=1722505555295421&widgetName=sp_phone_search_atf",
-    "storeText": "Visit the COMFEE' Store",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Metallic",
-      "Brand": "COMFEE'",
-      "Model name": "CRR33S3ARD",
-      "Form factor": "Compact",
-      "Cooling method": "Compressor",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "48.8 x 43.9 x 83.6 centimeters",
-      "Lock type": "Electronic",
-      "Specification met": "Energy Star, 5 Star"
-    },
-    "productId": "B08T8Y5HK1",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31gZt5iAYAS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator1": {
     "sponsored": true,
-    "title": "AstroAI Portable Freezer 12 Volt Car Refrigerator 16 Quart Fridge for Car, RV, Van, Vehicle Portable Freezer 15L (-4\u2109~68\u2109) for Camping, Travel - 12/24V DC & 100/240V AC Gift for Men & Women",
+    "title": "AstroAI Portable Freezer 12 Volt Car Refrigerator 16 Quart Fridge for Car, RV, Van, Vehicle Portable Freezer 15L (-4℉~68℉) for Camping, Travel - 12/24V DC & 100/240V AC Gift for Men & Women",
     "rating": {
       "rating": 4,
       "count": 466
@@ -37,23 +25,11 @@ const data = {
     "price": 299.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator1.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_aps_sr_pg1_1?ie=UTF8&adId=A05845993RHPYBZXVO5V7&url=%2FAstroAI-Portable-Freezer-Refrigerator-Vehicle%2Fdp%2FB088FDTTY4%2Fref%3Dmp_s_a_1_2_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649134428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-2-spons%26psc%3D1&qualifier=1649134428&id=1722505555295421&widgetName=sp_phone_search_atf",
-    "storeText": "Visit the AstroAI Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "AstroAI",
-      "Model name": "ASIPF150G",
-      "Pattern": "Solid",
-      "Configuration": "Compact Internal Freezer",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "56.4 x 32 x 24.9 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B088FDTTY4",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51UWD8b8IJL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator2": {
     "sponsored": true,
@@ -65,23 +41,11 @@ const data = {
     "price": 401.37,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator2.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Whynter-BR-130SB-Beverage-Refrigerator-Stainless/dp/B00P7QI4IM/ref=mp_s_a_1_3?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-3",
-    "storeText": "Visit the Whynter Store",
-    "details": {
-      "Colour": "Stainless Steel",
-      "Finish type": "Glossy",
-      "Brand": "Whynter",
-      "Form factor": "Standard Depth",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Item dimensions L x W x H": "47 x 43.2 x 83.8 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic",
-      "Specification met": "ETL"
-    },
-    "productId": "B00P7QI4IM",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/512SnKLcjSL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator3": {
     "sponsored": true,
@@ -93,23 +57,11 @@ const data = {
     "price": 173.25,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator3.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/1-6CF-SnglDoor-Comp-Fridge-Blk/dp/B00MVVI1FC/ref=mp_s_a_1_4?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-4",
-    "storeText": "Brand: Midea",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Midea",
-      "Model name": "WHS-65LB1",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Item dimensions L x W x H": "45 x 47.2 x 46.2 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Electronic",
-      "Capacity": "1.6 Cubic Feet"
-    },
-    "productId": "B00MVVI1FC",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51+vxUeDiGL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator4": {
     "sponsored": true,
@@ -121,12 +73,11 @@ const data = {
     "price": 329.97,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator4.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-DBC026A1BSSDB-Beverage-Center-Black/dp/B075J2TL9N/ref=mp_s_a_1_5?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-5",
-    "storeText": "Brand: Danby",
+    "storeText": "",
     "details": {},
-    "productId": "B075J2TL9N",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/515tUBXiZjL._AC_SY580_.jpg"
+    "productId": ""
   },
   "refrigerator5": {
     "sponsored": true,
@@ -138,23 +89,11 @@ const data = {
     "price": 156.38,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator5.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/CURTIS-INTERNATIONAL-EFR176-BLUE-Fridge-Bottle/dp/B07LDVXK4Q/ref=mp_s_a_1_6?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-6",
-    "storeText": "Brand: CURTIS INTERNATIONAL",
-    "details": {
-      "Colour": "Blue",
-      "Finish type": "Matte",
-      "Brand": "CURTIS INTERNATIONAL",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Compressor",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "40.6 x 45.7 x 47 centimeters",
-      "Inverter type": "Has Inverter"
-    },
-    "productId": "B07LDVXK4Q",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41xh9KDcWfL._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator6": {
     "sponsored": true,
@@ -166,23 +105,11 @@ const data = {
     "price": 67.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator6.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/AstroAI-Fridge-Portable-Powered-Offices/dp/B07S2RBCT5/ref=mp_s_a_1_7?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-7",
-    "storeText": "Visit the AstroAI Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "AstroAI",
-      "Form factor": "Standard Depth",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "24.5 x 18.5 x 27 centimeters",
-      "Lock type": "Electronic",
-      "Specification met": "ETL, RoHS"
-    },
-    "productId": "B07S2RBCT5",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31Av2nqI7KL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator7": {
     "sponsored": true,
@@ -194,21 +121,11 @@ const data = {
     "price": 399.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator7.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/3-2Cu-ft-Refrigerator-Reversible-Removable-Recessed/dp/B09GPCQ8WN/ref=mp_s_a_1_8?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-8",
-    "storeText": "Brand: NAFORT",
-    "details": {
-      "Colour": "Grey",
-      "Finish type": "Metallic",
-      "Brand": "NAFORT",
-      "Capacity": "3.2 Cubic Feet",
-      "Number of shelves": "1",
-      "Installation type": "Freestanding",
-      "Voltage": "120 Volts",
-      "Adjustable temperature control": "Yes"
-    },
-    "productId": "B09GPCQ8WN",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41XYcRyxNhL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator8": {
     "sponsored": true,
@@ -220,20 +137,11 @@ const data = {
     "price": 234,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator8.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Royal-Sovereign-Refrigerator-Compartment-RMF-70W/dp/B00JH3J0F2/ref=mp_s_a_1_9?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-9",
-    "storeText": "Visit the Royal Sovereign Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Matte",
-      "Brand": "Royal Sovereign",
-      "Form factor": "Standard Depth",
-      "Pattern": "Solid",
-      "Item dimensions L x W x H": "44.5 x 49 x 63.5 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B00JH3J0F2",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31-GeTQgZUL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator9": {
     "sponsored": true,
@@ -245,23 +153,11 @@ const data = {
     "price": 499.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator9.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg1_1?ie=UTF8&adId=A071845623MP1F44K90GS&url=%2FCostway-Compact-Refrigerator-Freezer-Cooler%2Fdp%2FB079QHNB3M%2Fref%3Dmp_s_a_1_10_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649134428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-10-spons%26psc%3D1&qualifier=1649134428&id=1722505555295421&widgetName=sp_phone_search_mtf",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "COSTWAY",
-      "Model name": "22756WH-CYPE-CS",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Item dimensions L x W x H": "44.5 x 43.2 x 97.8 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B079QHNB3M",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31KyTByqmVL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator10": {
     "sponsored": true,
@@ -273,23 +169,11 @@ const data = {
     "price": 159.94,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator10.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/RCA-Cubic-Foot-Fridge-Black/dp/B00Q477YSE/ref=mp_s_a_1_11?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-11",
-    "storeText": "Brand: RCA",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "RCA",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Item dimensions L x W x H": "50.8 x 45.7 x 50.8 centimeters",
-      "Lock type": "Electronic",
-      "Capacity": "1.6 Cubic Feet",
-      "Number of shelves": "1"
-    },
-    "productId": "B00Q477YSE",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31O8SUpc6uL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator11": {
     "sponsored": true,
@@ -301,23 +185,11 @@ const data = {
     "price": 287.24,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator11.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-Compact-Freezer-Capacity-Beverages/dp/B093Q2WXTJ/ref=mp_s_a_1_12?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-12",
-    "storeText": "Brand: PantsSaver",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "PantsSaver",
-      "Model name": "BC88B",
-      "Form factor": "Compact",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "47 x 43.2 x 85.1 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Key",
-      "Capacity": "3.3 Cubic Feet"
-    },
-    "productId": "B093Q2WXTJ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/216AYvYY5BS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator12": {
     "sponsored": true,
@@ -329,23 +201,11 @@ const data = {
     "price": 116.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator12.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/AstroAI-Portable-Thermoelectric-Medications-Cosmetics/dp/B0811NCDVJ/ref=mp_s_a_1_13?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-13",
-    "storeText": "Visit the AstroAI Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "AstroAI",
-      "Model name": "ASIM090B",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "1 Star",
-      "Item dimensions L x W x H": "32.5 x 29.5 x 35 centimeters"
-    },
-    "productId": "B0811NCDVJ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41y+xDqnhIS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator13": {
     "sponsored": true,
@@ -357,20 +217,11 @@ const data = {
     "price": 64.72,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator13.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/RCA-RMIS129-BLUE-Retro-Beverage-Refrigerator-Blue/dp/B01N9F38KS/ref=mp_s_a_1_14?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-14",
-    "storeText": "Brand: RCA",
-    "details": {
-      "Colour": "Blue",
-      "Finish type": "Glossy",
-      "Brand": "RCA",
-      "Model name": "RMIS129-BLUE",
-      "Form factor": "Compact",
-      "Pattern": "Refrigerator",
-      "Configuration": "Compact Freezerless"
-    },
-    "productId": "B01N9F38KS",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31eqdh4YdfS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator14": {
     "sponsored": true,
@@ -382,23 +233,11 @@ const data = {
     "price": 158.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator14.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/AstroAI-Portable-Thermoelectric-Medications-Cosmetics/dp/B08P4V83RJ/ref=mp_s_a_1_15?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-15",
-    "storeText": "Visit the AstroAI Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "AstroAI",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "32.5 x 25 x 35.2 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B08P4V83RJ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/418euryKY+S._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator15": {
     "sponsored": true,
@@ -410,23 +249,11 @@ const data = {
     "price": 319.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator15.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/DECKER-BCRK25V-Compact-Refrigerator-Freezer/dp/B01DZQI700/ref=mp_s_a_1_16?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-16",
-    "storeText": "Visit the BLACK+DECKER Store",
-    "details": {
-      "Colour": "Brushed Metal Finish",
-      "Finish type": "Glossy",
-      "Brand": "BLACK+DECKER",
-      "Model name": "BCRK25V",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "47 x 44.5 x 67.6 centimeters"
-    },
-    "productId": "B01DZQI700",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31Y+ovnrEsL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator16": {
     "sponsored": true,
@@ -438,24 +265,13 @@ const data = {
     "price": 199.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator16.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/COMFEE-Refrigerator-Appearance-Adjustable-Temperature/dp/B08T8YRSMK/ref=mp_s_a_1_17?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649134428&sprefix=refrigerator%2Caps%2C114&sr=8-17",
-    "storeText": "Visit the COMFEE' Store",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Metallic",
-      "Brand": "COMFEE'",
-      "Model name": "CRR16S3ARD",
-      "Form factor": "Compact",
-      "Cooling method": "Compressor",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "48.5 x 43.9 x 50 centimeters",
-      "Lock type": "Electronic",
-      "Specification met": "Energy Star, 5 Star"
-    },
-    "productId": "B08T8YRSMK",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31EhCe98stL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
+  
   "refrigerator17": {
     "sponsored": true,
     "title": "COMFEE' 3.3 Cubic Feet Solo Series Retro Refrigerator Sleek Appearance HIPS Interior Energy Saving Adjustable Legs Temperature Thermostat Dial Removable Shelf Perfect for Home/Dorm/Garage [Red]",
@@ -466,23 +282,11 @@ const data = {
     "price": 279.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator17.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A091233718MHU5YN7CKDY&url=%2FCOMFEE-Refrigerator-Appearance-Adjustable-Temperature%2Fdp%2FB08T8Y5HK1%2Fref%3Dmp_s_a_1_15_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167034%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-15-spons%26psc%3D1&qualifier=1649167034&id=8116071215399582&widgetName=sp_phone_search_atf_next",
-    "storeText": "Visit the COMFEE' Store",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Metallic",
-      "Brand": "COMFEE'",
-      "Model name": "CRR33S3ARD",
-      "Form factor": "Compact",
-      "Cooling method": "Compressor",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "48.8 x 43.9 x 83.6 centimeters",
-      "Lock type": "Electronic",
-      "Specification met": "Energy Star, 5 Star"
-    },
-    "productId": "B08T8Y5HK1",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31gZt5iAYAS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator18": {
     "sponsored": true,
@@ -494,23 +298,11 @@ const data = {
     "price": 199.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator18.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/COMFEE-Refrigerator-Appearance-Adjustable-Temperature/dp/B08T8YRSMK/ref=mp_s_a_1_16?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-16",
-    "storeText": "Visit the COMFEE' Store",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Metallic",
-      "Brand": "COMFEE'",
-      "Model name": "CRR16S3ARD",
-      "Form factor": "Compact",
-      "Cooling method": "Compressor",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "48.5 x 43.9 x 50 centimeters",
-      "Lock type": "Electronic",
-      "Specification met": "Energy Star, 5 Star"
-    },
-    "productId": "B08T8YRSMK",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31EhCe98stL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator19": {
     "sponsored": true,
@@ -522,23 +314,11 @@ const data = {
     "price": 389.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator19.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/COSTWAY-Refrigerator-Reversible-Removable-Mechanical/dp/B01NH9HD8M/ref=mp_s_a_1_17?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-17",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "Grey",
-      "Finish type": "Glossy",
-      "Brand": "COSTWAY",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "49.5 x 48.3 x 86.4 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B01NH9HD8M",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/315MtMXeqsL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator20": {
     "sponsored": true,
@@ -550,23 +330,11 @@ const data = {
     "price": 207.32,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator20.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Equator-Midea-87L-24SS-cu-Feet-Refrigerator-Stainless/dp/B00MMRFQR6/ref=mp_s_a_1_18?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-18",
-    "storeText": "Brand: Equator-Midea",
-    "details": {
-      "Colour": "Stainless Steel",
-      "Finish type": "Glossy",
-      "Brand": "Equator-Midea",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "51 x 44.5 x 63 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B00MMRFQR6",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/310uVHsb-+L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator21": {
     "sponsored": true,
@@ -578,23 +346,11 @@ const data = {
     "price": 249.87,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator21.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Curtis-Retro-Fridge-Bottle-Opener/dp/B07MXZ1TYH/ref=mp_s_a_1_19?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-19",
-    "storeText": "Brand: Frigidaire",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "Frigidaire",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Compressor",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "44.5 x 48.3 x 80 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B07MXZ1TYH",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31QMz0cmKGL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator22": {
     "sponsored": true,
@@ -606,23 +362,11 @@ const data = {
     "price": 235.87,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator22.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-Mini-Fridge-CuFt-White/dp/B00XW8P89A/ref=mp_s_a_1_20?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-20",
-    "storeText": "Visit the Danby Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "Danby",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "47 x 44.9 x 50.1 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic",
-      "Specification met": "Energy Star"
-    },
-    "productId": "B00XW8P89A",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/312D4cAWepL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator23": {
     "sponsored": true,
@@ -634,23 +378,11 @@ const data = {
     "price": 389.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator23.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/DORTALA-Refrigerator-Separate-Refrigeration-Operation/dp/B095LHRT4W/ref=mp_s_a_1_21?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-21",
-    "storeText": "Brand: DORTALA",
-    "details": {
-      "Colour": "Grey",
-      "Finish type": "Matte",
-      "Form Factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "4 Star",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic",
-      "Capacity": "3.2 Cubic Feet"
-    },
-    "productId": "B095LHRT4W",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31zLO0CMyKL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator24": {
     "sponsored": true,
@@ -662,23 +394,11 @@ const data = {
     "price": 499.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator24.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Marshall-2019-Black-Capacity-Fridge/dp/B07SDLMSD5/ref=mp_s_a_1_22?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-22",
-    "storeText": "Visit the Marshall Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "Marshall",
-      "Form factor": "Standard Depth",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Energy star": "1 Star",
-      "Item dimensions L x W x H": "50.2 x 56.9 x 81.9 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Key"
-    },
-    "productId": "B07SDLMSD5",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41k+k+hAIbL._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator25": {
     "sponsored": true,
@@ -690,23 +410,11 @@ const data = {
     "price": 499.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator25.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg2_1?ie=UTF8&adId=A071845623MP1F44K90GS&url=%2FCostway-Compact-Refrigerator-Freezer-Cooler%2Fdp%2FB079QHNB3M%2Fref%3Dmp_s_a_1_23_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167034%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-23-spons%26psc%3D1&qualifier=1649167034&id=8116071215399582&widgetName=sp_phone_search_mtf",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "COSTWAY",
-      "Model name": "22756WH-CYPE-CS",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Item dimensions L x W x H": "44.5 x 43.2 x 97.8 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B079QHNB3M",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31KyTByqmVL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator26": {
     "sponsored": true,
@@ -718,16 +426,11 @@ const data = {
     "price": 21.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator26.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg2_1?ie=UTF8&adId=A07667113PSF0M1P4L9HX&url=%2FInstallation-Adjustable-Appliance-Magnetic-Diameter%2Fdp%2FB07J4Z1SVN%2Fref%3Dmp_s_a_1_24_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167034%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-24-spons%26psc%3D1&qualifier=1649167034&id=8116071215399582&widgetName=sp_phone_search_mtf",
-    "storeText": "Visit the H.VERSAILTEX Store",
-    "details": {
-      "Brand": "H.VERSAILTEX",
-      "Colour": "PEWTER",
-      "Material": "Wrought and Cast Iron"
-    },
-    "productId": "B07J4Z1SVN",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41Wy4ppYUoL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator27": {
     "sponsored": true,
@@ -736,23 +439,11 @@ const data = {
     "price": 244.88,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator27.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Galanz-Refrigerator-Adjustable-Mechanical-GLR25MWER27/dp/B09VH1Y6BN/ref=mp_s_a_1_25?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-25",
-    "storeText": "Brand: Galanz",
-    "details": {
-      "Colour": "Retro White",
-      "Brand": "Galanz",
-      "Model name": "GLR25MWER27",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "44.7 x 53.3 x 71.6 centimeters",
-      "Specification met": "Energy Star",
-      "Capacity": "2.5 Cubic Feet",
-      "Shelf type": "Glass",
-      "Number of shelves": "2",
-      "Installation type": "Freestanding"
-    },
-    "productId": "B09VH1Y6BN",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/21vwaZcwX0L._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator28": {
     "sponsored": true,
@@ -764,23 +455,11 @@ const data = {
     "price": 309.62,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator28.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/3-2-Cubic-Foot-Fridge-White/dp/B00P84EVFS/ref=mp_s_a_1_26?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-26",
-    "storeText": "Brand: CURTIS INTERNATIONAL",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "CURTIS INTERNATIONAL",
-      "Model name": "RFR321White",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "50.8 x 45.7 x 81.3 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B00P84EVFS",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/21cR3q-xQsL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator29": {
     "sponsored": true,
@@ -792,23 +471,11 @@ const data = {
     "price": 153.86,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator29.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Igloo-FR176-RED-Fridge-Bottle-Opener/dp/B019MQT6T8/ref=mp_s_a_1_27?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-27",
-    "storeText": "Brand: CURTIS INTERNATIONAL",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Glossy",
-      "Brand": "CURTIS INTERNATIONAL",
-      "Model name": "EFR176-RED",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Cooling method": "Compressor",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "48.3 x 53.3 x 53.3 centimeters"
-    },
-    "productId": "B019MQT6T8",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41tx4hh4zpL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator30": {
     "sponsored": true,
@@ -820,25 +487,15 @@ const data = {
     "price": 99.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator30.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/AstroAI-Skincare-Thermoelectric-Christmas-Cosmetics/dp/B095Y4ZFS7/ref=mp_s_a_1_28?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-28",
-    "storeText": "Visit the AstroAI Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "AstroAI",
-      "Form factor": "Compact",
-      "Item dimensions L x W x H": "27 x 19.5 x 30 centimeters",
-      "Specification met": "CE, ETL, RoHS",
-      "Capacity": "6 liters",
-      "Voltage": "230 Volts"
-    },
-    "productId": "B095Y4ZFS7",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41t3YlzM-qL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator31": {
     "sponsored": true,
-    "title": "Antarctic Star Mini Fridge Cooler - 60 Can Beverage Refrigerator Glass Door for Beer Soda or Wine \u2013 Glass Door Small Drink Dispenser Machine Clear Front Removable for Home, Office or Bar, 1.6cu.ft.",
+    "title": "Antarctic Star Mini Fridge Cooler - 60 Can Beverage Refrigerator Glass Door for Beer Soda or Wine – Glass Door Small Drink Dispenser Machine Clear Front Removable for Home, Office or Bar, 1.6cu.ft.",
     "rating": {
       "rating": 4,
       "count": 1
@@ -846,23 +503,11 @@ const data = {
     "price": 299.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator31.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Antarctic-Star-Refrigerators-Refigerator-Freestanding/dp/B07DC5H7F1/ref=mp_s_a_1_29?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-29",
-    "storeText": "Brand: Antarctic Star",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Antarctic Star",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "44.5 x 46.5 x 49.8 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Key",
-      "Capacity": "1.6 Cubic Feet"
-    },
-    "productId": "B07DC5H7F1",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51PYE5HmY9L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator32": {
     "sponsored": true,
@@ -871,12 +516,11 @@ const data = {
     "price": 3.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator32.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Reusable-Hanging-Refrigerator-Washable-Organizer/dp/B09TVZ8485/ref=mp_s_a_1_30?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-30",
-    "storeText": "Brand: Ghopy",
+    "storeText": "",
     "details": {},
-    "productId": "B09TVZ8485",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51akQYCvcBL._AC_SY780_.jpg"
+    "productId": ""
   },
   "refrigerator33": {
     "sponsored": true,
@@ -888,20 +532,11 @@ const data = {
     "price": 298.98,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator33.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Frigidaire-EFR391-Freezer-Platinum-Stainless/dp/B088GVQX34/ref=mp_s_a_1_31?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167034&sprefix=refrigerator%2Caps%2C114&sr=8-31",
-    "storeText": "Brand: Frigidaire",
-    "details": {
-      "Colour": "Stainless Steel",
-      "Finish type": "Stainless steel",
-      "Brand": "Frigidaire",
-      "Model name": "EFR341",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezer-on-Top"
-    },
-    "productId": "B088GVQX34",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31boEIJwIwL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator34": {
     "sponsored": true,
@@ -910,17 +545,11 @@ const data = {
     "price": 35.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator34.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg2_1?ie=UTF8&adId=A05373632GGN0REFIAFMW&url=%2FSAMMUA-W10295370a-Refrigerator-Compatible-W10295370%2Fdp%2FB09MW1C3LW%2Fref%3Dmp_s_a_1_32_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167034%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-32-spons%26psc%3D1&qualifier=1649167034&id=8116071215399582&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: SAMMUA",
-    "details": {
-      "Material": "Carbon Fiber",
-      "Duration": "6 months",
-      "External testing certification": "NSF",
-      "Brand": "SAMMUA"
-    },
-    "productId": "B09MW1C3LW",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51pI7S2-KQL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator35": {
     "sponsored": true,
@@ -929,16 +558,11 @@ const data = {
     "price": 2.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator35.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg2_1?ie=UTF8&adId=A01365112P3MU00JC6USL&url=%2FProfessional-Style-Range-Battery-Spark%2Fdp%2FB08VJK1RVS%2Fref%3Dmp_s_a_1_33_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167034%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-33-spons%26psc%3D1&qualifier=1649167034&id=8116071215399582&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: PREMIER",
-    "details": {
-      "Brand": "PREMIER",
-      "Item weight": "155 Pounds",
-      "Item dimensions L x W x H": "66 x 61 x 95.3 centimeters"
-    },
-    "productId": "B08VJK1RVS",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41y7J0q7xWL._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator36": {
     "sponsored": true,
@@ -950,23 +574,11 @@ const data = {
     "price": 189.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator36.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_next_aps_sr_pg3_1?ie=UTF8&adId=A09124613IEID8ZQ7FJ8M&url=%2FCOMFEE-Refrigerator-Appearance-Adjustable-Temperature%2Fdp%2FB08T8YW757%2Fref%3Dmp_s_a_1_29_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167282%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-29-spons%26psc%3D1&qualifier=1649167282&id=2612748457333496&widgetName=sp_phone_search_atf_next",
-    "storeText": "Visit the COMFEE' Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Metallic",
-      "Brand": "COMFEE'",
-      "Model name": "CRR16S3ABB",
-      "Form factor": "Compact",
-      "Pattern": "Refrigerator",
-      "Cooling method": "Compressor",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "48.5 x 43.9 x 50 centimeters",
-      "Lock type": "Electronic"
-    },
-    "productId": "B08T8YW757",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/314GtouVLnS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator37": {
     "sponsored": true,
@@ -978,23 +590,11 @@ const data = {
     "price": 77.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator37.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Coca-Cola-KWC-4-Personal-Fridge/dp/B000JLNBW4/ref=mp_s_a_1_30?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-30",
-    "storeText": "Visit the Coca-Cola Store",
-    "details": {
-      "Colour": "Red/White",
-      "Finish type": "Glossy",
-      "Brand": "Coca-Cola",
-      "Model name": "KWC4",
-      "Form factor": "Compact",
-      "Pattern": "Coca Cola Polar",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "17.8 x 25.4 x 25.4 centimeters"
-    },
-    "productId": "B000JLNBW4",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41NJjImr8XL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator38": {
     "sponsored": true,
@@ -1006,23 +606,11 @@ const data = {
     "price": 158.18,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator38.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/RCA-Fridge-1-6-Cubic-Feet/dp/B00P84F738/ref=mp_s_a_1_31?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-31",
-    "storeText": "Brand: RCA",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Matte",
-      "Brand": "RCA",
-      "Model name": "RFR160-Red",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Item dimensions L x W x H": "50.8 x 45.7 x 50.8 centimeters",
-      "Lock type": "Electronic",
-      "Capacity": "1.6 Cubic Feet",
-      "Shelf type": "Wire"
-    },
-    "productId": "B00P84F738",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31uqD73pz5L._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator39": {
     "sponsored": true,
@@ -1034,23 +622,11 @@ const data = {
     "price": 69.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator39.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Refridgrator-Thermoelectric-Lightweight-Essentials-Accessories/dp/B093P7WLX1/ref=mp_s_a_1_32?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-32",
-    "storeText": "Brand: TONZE",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "TONZE",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "4 Star",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B093P7WLX1",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31V+4hBXXaL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator40": {
     "sponsored": true,
@@ -1062,23 +638,11 @@ const data = {
     "price": null,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator40.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-DFF070B1BSLDB-6-Cubic-Mid-Size-Refrigerator/dp/B07Q2H4BWW/ref=mp_s_a_1_33?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-33",
-    "storeText": "Visit the Danby Store",
-    "details": {
-      "Colour": "Stainless Steel",
-      "Finish type": "Glossy",
-      "Brand": "Danby",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "60 x 55 x 143 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B07Q2H4BWW",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/215gx-czBeL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator41": {
     "sponsored": true,
@@ -1090,20 +654,11 @@ const data = {
     "price": 80.08,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator41.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Frigidaire-EFMIS462-PINK-Portable-Personal-Fridge/dp/B07K6ZFV17/ref=mp_s_a_1_34?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-34",
-    "storeText": "Brand: Frigidaire",
-    "details": {
-      "Colour": "PINK",
-      "Finish type": "Glossy",
-      "Brand": "Frigidaire",
-      "Model name": "EFMIS462-PINK",
-      "Form factor": "Compact",
-      "Configuration": "Compact Freezerless",
-      "Energy star": "4 Star"
-    },
-    "productId": "B07K6ZFV17",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41G1Cf8yuYL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator42": {
     "sponsored": true,
@@ -1115,23 +670,11 @@ const data = {
     "price": 309.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator42.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-DAR026A1BDD-6-Cu-Ft-Fridge-Black/dp/B07TGXWD7D/ref=mp_s_a_1_35?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-35",
-    "storeText": "Brand: Danby",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "Danby",
-      "Model name": "DAR026A1BDD-6",
-      "Form factor": "Standard Depth",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "51 x 44.9 x 69.7 centimeters"
-    },
-    "productId": "B07TGXWD7D",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/314PotdU0gL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator43": {
     "sponsored": true,
@@ -1143,23 +686,11 @@ const data = {
     "price": 73.94,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator43.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/AstroAI-Fridge-Skincare-Temperature-Control/dp/B089GJ975H/ref=mp_s_a_1_36?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&smid=A2NOFZGOKNP3PJ&sprefix=refrigerator%2Caps%2C114&sr=8-36",
-    "storeText": "Visit the AstroAI Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "AstroAI",
-      "Model": "M060W",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "1 Star",
-      "Item dimensions L x W x H": "28.6 x 29.9 x 29.5 centimeters"
-    },
-    "productId": "B089GJ975H",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/418RTIFmPaL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator44": {
     "sponsored": true,
@@ -1171,12 +702,11 @@ const data = {
     "price": 32.85,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator44.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg3_1?ie=UTF8&adId=A06408851HOXH4JCAZTXO&url=%2FOrganizer-Refrigerator-Stackable-Reusable-White%2Fdp%2FB09LLTH215%2Fref%3Dmp_s_a_1_37_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167282%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-37-spons%26psc%3D1&qualifier=1649167282&id=2612748457333496&widgetName=sp_phone_search_mtf",
-    "storeText": "Visit the JibInfo Store",
+    "storeText": "",
     "details": {},
-    "productId": "B09LLTH215",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/313kVRIDfIL._AC_SY580_.jpg"
+    "productId": ""
   },
   "refrigerator45": {
     "sponsored": true,
@@ -1188,12 +718,11 @@ const data = {
     "price": 44.96,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator45.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg3_1?ie=UTF8&adId=A00713103BCRV6GO3426I&url=%2FAimacro-Stackable-Refrigerator-Organizer-Sealing%2Fdp%2FB094WXGMP9%2Fref%3Dmp_s_a_1_38_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167282%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-38-spons%26psc%3D1&qualifier=1649167282&id=2612748457333496&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: Aimacro",
+    "storeText": "",
     "details": {},
-    "productId": "B094WXGMP9",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51-GW7NAApL._AC_SY780_.jpg"
+    "productId": ""
   },
   "refrigerator46": {
     "sponsored": true,
@@ -1205,24 +734,15 @@ const data = {
     "price": 505.62,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator46.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-Designer-Fridge-Stainless-Steel/dp/B00O2N4LDS/ref=mp_s_a_1_39?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-39",
-    "storeText": "Visit the Danby Store",
-    "details": {
-      "Colour": "Stainless Look",
-      "Finish type": "Matte",
-      "Brand": "Danby",
-      "Form factor": "Side By Side",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric"
-    },
-    "productId": "B00O2N4LDS",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/315TA61eR5L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator47": {
     "sponsored": true,
-    "title": "VBENLEM 45L Portable Car Refrigerator 48 Quart LG Compact RV Fridge 12/24V DC & 110-240V AC Vehicle Car Truck Boat Mini Electric Freezer for Driving Travel Fishing Outdoor and Home Use -4\u00b0F-50\u00b0F",
+    "title": "VBENLEM 45L Portable Car Refrigerator 48 Quart LG Compact RV Fridge 12/24V DC & 110-240V AC Vehicle Car Truck Boat Mini Electric Freezer for Driving Travel Fishing Outdoor and Home Use -4°F-50°F",
     "rating": {
       "rating": 4,
       "count": 86
@@ -1230,23 +750,11 @@ const data = {
     "price": 447.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator47.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/VBENLEM-Compressor-Portable-Refrigerator-110-240V/dp/B07SHSH95J/ref=mp_s_a_1_40?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-40",
-    "storeText": "Brand: VBENLEM",
-    "details": {
-      "Colour": "Gray",
-      "Finish type": "Glossy",
-      "Brand": "VBENLEM",
-      "Model name": "Car Refrigerator 48 Quart",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Internal Freezer",
-      "Cooling method": "Compressor",
-      "Energy star": "1 Star",
-      "Item dimensions L x W x H": "68.8 x 46.2 x 34.5 centimeters"
-    },
-    "productId": "B07SHSH95J",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41f6DJspIXL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator48": {
     "sponsored": true,
@@ -1255,16 +763,11 @@ const data = {
     "price": 92.02,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator48.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/XLEVE-20-Liter-Compact-Thermostat-Dual-Core/dp/B08CSDWRCK/ref=mp_s_a_1_41?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-41",
-    "storeText": "Brand: XLEVE",
-    "details": {
-      "Brand": "XLEVE",
-      "Form Factor": "Compact",
-      "Capacity": "20 liters"
-    },
-    "productId": "B08CSDWRCK",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41p9iZwODcL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator49": {
     "sponsored": true,
@@ -1276,20 +779,11 @@ const data = {
     "price": 539.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator49.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Alpicool-Portable-Refrigerator-Vehicle-Freezer/dp/B073WTNRJ2/ref=mp_s_a_1_42?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-42",
-    "storeText": "Brand: Alpicool",
-    "details": {
-      "Colour": "C50",
-      "Finish type": "Stainless steel",
-      "Brand": "Alpicool",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Internal Freezer",
-      "Cooling method": "Compressor"
-    },
-    "productId": "B073WTNRJ2",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31LaBXdA7dL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator50": {
     "sponsored": true,
@@ -1301,23 +795,11 @@ const data = {
     "price": 399.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator50.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/KOTEK-Refrigerator-Reversible-Removable-Apartment/dp/B0972PX2C5/ref=mp_s_a_1_43?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-43",
-    "storeText": "Visit the KOTEK Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "KOTEK",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Internal Freezer",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "48.3 x 49.5 x 86.4 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B0972PX2C5",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31G5lDlSjMS._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator51": {
     "sponsored": true,
@@ -1329,20 +811,11 @@ const data = {
     "price": 242.71,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator51.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Cooluli-Vibe-Black-Liter-Fridge/dp/B07Y8V6SXD/ref=mp_s_a_1_44?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-44",
-    "storeText": "Brand: Cooluli",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Cooluli",
-      "Model name": "Vibe",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless"
-    },
-    "productId": "B07Y8V6SXD",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41-75Zae4HL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator52": {
     "sponsored": true,
@@ -1354,23 +827,11 @@ const data = {
     "price": 99.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator52.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Coca-Cola-Portable-Bluetooth-Capacity-Accessory/dp/B08ZJK9Y7X/ref=mp_s_a_1_45?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167282&sprefix=refrigerator%2Caps%2C114&sr=8-45",
-    "storeText": "Visit the Koolatron Store",
-    "details": {
-      "Colour": "Red/White",
-      "Finish type": "Glossy",
-      "Brand": "Koolatron",
-      "Model name": "KWC4BTAZ",
-      "Form factor": "Smartphone",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "18.4 x 23.5 x 26.7 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Key"
-    },
-    "productId": "B08ZJK9Y7X",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51ZGIlYRWTL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator53": {
     "sponsored": true,
@@ -1382,18 +843,11 @@ const data = {
     "price": 29.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator53.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg3_1?ie=UTF8&adId=A01497802OQ4U63WZ6T8I&url=%2FRefrigerator-Replacement-UKF8001AXX-200-UKF8001AXX-750-Bringpure%2Fdp%2FB08F9SM3PN%2Fref%3Dmp_s_a_1_46_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167282%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-46-spons%26psc%3D1%26smid%3DA3OFZ3ESNMV1WC&qualifier=1649167282&id=2612748457333496&widgetName=sp_phone_search_btf",
-    "storeText": "Visit the Bringpure Store",
-    "details": {
-      "Material": "Carbon Fiber",
-      "Duration": "6 months",
-      "External testing certification": "NSF",
-      "Product benefits": "Removes Impurities, Removes Odor, Reduces Chlorine",
-      "Brand": "Bringpure"
-    },
-    "productId": "B08F9SM3PN",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51+R3TRn2QL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator54": {
     "sponsored": true,
@@ -1405,18 +859,11 @@ const data = {
     "price": 29.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator54.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg3_1?ie=UTF8&adId=A00350198A9F6WUBJ93B&url=%2FAQUACREST-Electrolux-Frigidaire-Refrigerator-Replacement%2Fdp%2FB01G4WLQ2I%2Fref%3Dmp_s_a_1_47_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167282%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-47-spons%26psc%3D1&qualifier=1649167282&id=2612748457333496&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: AQUA CREST",
-    "details": {
-      "Material": "Carbon Fiber",
-      "Item dimensions L x W x H": "48 x 48 x 112 millimeters",
-      "Duration": "6",
-      "External testing certification": "NSF",
-      "Brand": "AQUA CREST"
-    },
-    "productId": "B01G4WLQ2I",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51I-7HDIAFL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator55": {
     "sponsored": true,
@@ -1428,23 +875,11 @@ const data = {
     "price": 199.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator55.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A0912617897RWIN67MXT&url=%2FCOMFEE-Refrigerator-Appearance-Adjustable-Temperature%2Fdp%2FB08T8YRSMK%2Fref%3Dmp_s_a_1_43_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-43-spons%26psc%3D1&qualifier=1649167428&id=3421079867947206&widgetName=sp_phone_search_atf_next",
-    "storeText": "Visit the COMFEE' Store",
-    "details": {
-      "Colour": "Red",
-      "Finish type": "Metallic",
-      "Brand": "COMFEE'",
-      "Model name": "CRR16S3ARD",
-      "Form factor": "Compact",
-      "Cooling method": "Compressor",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "48.5 x 43.9 x 50 centimeters",
-      "Lock type": "Electronic",
-      "Specification met": "Energy Star, 5 Star"
-    },
-    "productId": "B08T8YRSMK",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31EhCe98stL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator56": {
     "sponsored": true,
@@ -1456,20 +891,11 @@ const data = {
     "price": 66.46,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator56.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Chefman-Portable-Personal-Capacity-Freon-Free/dp/B076X7HF7F/ref=mp_s_a_1_44?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-44",
-    "storeText": "Visit the Chefman Store",
-    "details": {
-      "Colour": "Basic - Black",
-      "Finish type": "Glossy",
-      "Brand": "Chefman",
-      "Model name": "Mini Portable Black Personal Fridge Cools Or Heats",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless"
-    },
-    "productId": "B076X7HF7F",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31TeJay1IEL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator57": {
     "sponsored": true,
@@ -1481,20 +907,11 @@ const data = {
     "price": 121.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator57.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Fridge-Electric-Cooler-Warmer-12Liter/dp/B089SRN784/ref=mp_s_a_1_45?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-45",
-    "storeText": "Brand: Awopee",
-    "details": {
-      "Colour": "Silver",
-      "Finish type": "Matte",
-      "Brand": "Awopee",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Inverter type": "Has Inverter"
-    },
-    "productId": "B089SRN784",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/410Ch3ywUbS._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator58": {
     "sponsored": true,
@@ -1506,23 +923,11 @@ const data = {
     "price": null,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator58.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-KBC-70-Compressor-Refrigerator-Multicolor/dp/B01MS4I4VQ/ref=mp_s_a_1_46?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-46",
-    "storeText": "Brand: PantsSaver",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "PantsSaver",
-      "Model name": "WC12MG",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "17.8 x 31.1 x 53.3 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B01MS4I4VQ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31mwHF7-MuL._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator59": {
     "sponsored": true,
@@ -1534,12 +939,11 @@ const data = {
     "price": 56.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator59.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/DA97-12650A-Refrigerator-RF260BEAESR-RF263BEAESG-RF263TEAESG/dp/B09CYDT8GY/ref=mp_s_a_1_43?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-43",
-    "storeText": "Brand: GFORIT",
+    "storeText": "",
     "details": {},
-    "productId": "B09CYDT8GY",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51sRE7JJxJL._AC_UY580_.jpg"
+    "productId": ""
   },
   "refrigerator60": {
     "sponsored": true,
@@ -1551,23 +955,11 @@ const data = {
     "price": 170.57,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator60.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/CURTIS-INTERNATIONAL-EFR176-CORAL-Fridge-Bottle/dp/B07LDWLMFY/ref=mp_s_a_1_44?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-44",
-    "storeText": "Brand: CURTIS INTERNATIONAL",
-    "details": {
-      "Colour": "Coral",
-      "Finish type": "Matte",
-      "Brand": "CURTIS INTERNATIONAL",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Cooling method": "Compressor",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "40.6 x 45.7 x 47 centimeters",
-      "Inverter type": "Has Inverter"
-    },
-    "productId": "B07LDWLMFY",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31dJ6u6u4KL._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator61": {
     "sponsored": true,
@@ -1579,20 +971,11 @@ const data = {
     "price": 339.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator61.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Alpicool-C20-Portable-Refrigerator-Vehicle/dp/B075R1LH8D/ref=mp_s_a_1_45?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-45",
-    "storeText": "Brand: Alpicool",
-    "details": {
-      "Colour": "C20",
-      "Finish type": "Glossy",
-      "Brand": "Alpicool",
-      "Model name": "C20",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Internal Freezer"
-    },
-    "productId": "B075R1LH8D",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41qdM70HkhL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator62": {
     "sponsored": true,
@@ -1604,12 +987,11 @@ const data = {
     "price": 39.97,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator62.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Simple-Houseware-Freezer-Storage-Organizer/dp/B07M718XB3/ref=mp_s_a_1_46?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-46",
-    "storeText": "Visit the SIMPLE HOUSEWARE Store",
+    "storeText": "",
     "details": {},
-    "productId": "B07M718XB3",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/5151ar3ShpL._AC_SY780_.jpg"
+    "productId": ""
   },
   "refrigerator63": {
     "sponsored": true,
@@ -1621,15 +1003,11 @@ const data = {
     "price": 51.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator63.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg4_1?ie=UTF8&adId=A0493882949P3LQVO5IM&url=%2FDRINKCLEAR-Refrigerator-Replacement-Frigidaire-FPBC2277RF%2Fdp%2FB09CGVVBY7%2Fref%3Dmp_s_a_1_47_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-47-spons%26psc%3D1&qualifier=1649167428&id=3421079867947206&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: DRINKCLEAR",
-    "details": {
-      "Material": "Carbon Fiber",
-      "Brand": "DRINKCLEAR"
-    },
-    "productId": "DRINKCLEAR",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41zF+U6PhLL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator64": {
     "sponsored": true,
@@ -1641,18 +1019,11 @@ const data = {
     "price": 33.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator64.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg4_1?ie=UTF8&adId=A09096341KOX0WO0LWM46&url=%2FDA29-00020B-Refrigerator-Replacement-DA29-00020A-DA97-08006A%2Fdp%2FB07K1G1GD3%2Fref%3Dmp_s_a_1_48_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-48-spons%26psc%3D1&qualifier=1649167428&id=3421079867947206&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: Maxblue",
-    "details": {
-      "Material": "Carbon Fiber",
-      "Item dimensions L x W x H": "5.3 x 5.3 x 22.8 centimeters",
-      "Duration": "6 months",
-      "External testing certification": "NSF 42/372",
-      "Brand": "Maxblue"
-    },
-    "productId": "B07K1G1GD3",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41DXbvgk1gL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator65": {
     "sponsored": true,
@@ -1664,23 +1035,11 @@ const data = {
     "price": 485.45,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator65.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/NutriChef-PKCWC18-Cooler-Bottles-Black/dp/B085DX3RGH/ref=mp_s_a_1_49?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-49",
-    "storeText": "Brand: Nutrichef",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Stainless steel",
-      "Brand": "Nutrichef",
-      "Model name": "Nutrichef",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless",
-      "Cooling method": "Compressor",
-      "Energy star": "1 Star",
-      "Item dimensions L x W x H": "34.5 x 45 x 77 centimeters"
-    },
-    "productId": "B085DX3RGH",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41Bnvdodf5L._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator66": {
     "sponsored": true,
@@ -1692,23 +1051,11 @@ const data = {
     "price": 110,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator66.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Skincare-Fridge-Personal-Portable-Electric/dp/B09DRLQRLS/ref=mp_s_a_1_50?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-50",
-    "storeText": "Brand: Makeup Fridge",
-    "details": {
-      "Colour": "Pale Pink",
-      "Finish type": "Glossy",
-      "Brand": "Makeup Fridge",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "27.3 x 18.4 x 27.3 centimeters",
-      "Specification met": "ETL",
-      "Capacity": "4 liters",
-      "Number of shelves": "2"
-    },
-    "productId": "B09DRLQRLS",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/214CeRSYAyL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator67": {
     "sponsored": true,
@@ -1720,23 +1067,11 @@ const data = {
     "price": 472,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator67.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Frigidaire-EFR840-BLACK-COM-Compact-Refrigerator-Black/dp/B07YT1RLZC/ref=mp_s_a_1_51?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-51",
-    "storeText": "Brand: Frigidaire",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Frigidaire",
-      "Model name": "EFR840-BLACK-COM",
-      "Form factor": "Compact",
-      "Pattern": "Refrigerator",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "53.3 x 55.9 x 76.2 centimeters"
-    },
-    "productId": "B07YT1RLZC",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31jsRfJwXHL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator68": {
     "sponsored": true,
@@ -1748,20 +1083,11 @@ const data = {
     "price": 316.23,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator68.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Cooluli-Concord-20-liter-Thermostat-Dual-Core/dp/B07JCBG524/ref=mp_s_a_1_52?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-52",
-    "storeText": "Brand: Cooluli",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "Cooluli",
-      "Model name": "Concord",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless"
-    },
-    "productId": "B07JCBG524",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/316ZXuBGfRL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator69": {
     "sponsored": true,
@@ -1773,23 +1099,11 @@ const data = {
     "price": 69.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator69.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Coca-Cola-KWC-4C-Portable-Beverages-Medications-Use/dp/B07YYXXJ5B/ref=mp_s_a_1_53?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-53",
-    "storeText": "Visit the PantsSaver Store",
-    "details": {
-      "Colour": "Red/White",
-      "Finish type": "Glossy",
-      "Brand": "PantsSaver",
-      "Model name": "KWC-4C",
-      "Form factor": "Standard Depth",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "18.4 x 23.5 x 26.7 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B07YYXXJ5B",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41cAfi9RUdL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator70": {
     "sponsored": true,
@@ -1801,23 +1115,11 @@ const data = {
     "price": 363.93,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator70.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-KCR40B-Hybrid-Refrigerator-Silver/dp/B003UV4IXG/ref=mp_s_a_1_54?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-54",
-    "storeText": "Brand: PantsSaver",
-    "details": {
-      "Colour": "Silver",
-      "Finish type": "Matte",
-      "Brand": "PantsSaver",
-      "Model name": "KCR40B",
-      "Form factor": "Side By Side",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "43.2 x 50.2 x 50.2 centimeters",
-      "Lock type": "Key"
-    },
-    "productId": "B003UV4IXG",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/3186SMhQdPS._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator71": {
     "sponsored": true,
@@ -1829,23 +1131,11 @@ const data = {
     "price": 399.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator71.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Insignia-3-0-Cu-Mini-Fridge/dp/B07G6MP9GX/ref=mp_s_a_1_55?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167428&sprefix=refrigerator%2Caps%2C114&sr=8-55",
-    "storeText": "Brand: Insignia",
-    "details": {
-      "Colour": "Stainless steel",
-      "Finish type": "Stainless steel",
-      "Brand": "Insignia",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezer-on-Top",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "Yes",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B07G6MP9GX",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31u0WoIdEjL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator72": {
     "sponsored": true,
@@ -1857,23 +1147,15 @@ const data = {
     "price": 36.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator72.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg4_1?ie=UTF8&adId=A0208780WORCZ846RB13&url=%2FWaterspecialist-Refrigerator-Replacement-SmartWater-Kenmore%2Fdp%2FB078W6NMRR%2Fref%3Dmp_s_a_1_56_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-56-spons%26psc%3D1&qualifier=1649167428&id=3421079867947206&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: Waterspecialist",
-    "details": {
-      "Material": "Lead-Free Material",
-      "Item dimensions L x W x H": "8.5 x 8.5 x 13 centimeters",
-      "Item Weight": "2.44 Pounds",
-      "External testing certification": "NSF 42/372",
-      "Product benefits": "Reduces Chlorine",
-      "Brand": "Waterspecialist"
-    },
-    "productId": "B078W6NMRR",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41UgLn4Lp9L._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator73": {
     "sponsored": true,
-    "title": "CAYOREPO 3 Pack Fresh Container, Produce Saver Container for Refrigerator, Vegetable Fruit Storage Container, Fridge Storage Organizer Bins with Divider, Fridge Container Box\uff08Not Dishwasher Safe)",
+    "title": "CAYOREPO 3 Pack Fresh Container, Produce Saver Container for Refrigerator, Vegetable Fruit Storage Container, Fridge Storage Organizer Bins with Divider, Fridge Container Box（Not Dishwasher Safe)",
     "rating": {
       "rating": 4,
       "count": 2
@@ -1881,12 +1163,11 @@ const data = {
     "price": 43.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator73.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg4_1?ie=UTF8&adId=A0409072SLMKTHCQUG1D&url=%2FCAYOREPO-Container-Refrigerator-Vegetable-Dishwasher%2Fdp%2FB09PN8FZTL%2Fref%3Dmp_s_a_1_57_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167428%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-57-spons%26psc%3D1&qualifier=1649167428&id=3421079867947206&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: CAYOREPO",
+    "storeText": "",
     "details": {},
-    "productId": "B09PN8FZTL",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51ipLYMSKhL._AC_SY580_.jpg"
+    "productId": ""
   },
   "refrigerator74": {
     "sponsored": true,
@@ -1898,16 +1179,11 @@ const data = {
     "price": 23.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator74.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_next_aps_sr_pg5_1?ie=UTF8&adId=A05495751RRGGMKU7CKGS&url=%2FCabinet-Washable-Refrigerator-Kitchen-Bathroom%2Fdp%2FB09KL28CQT%2Fref%3Dmp_s_a_1_57_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167450%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-57-spons%26psc%3D1&qualifier=1649167450&id=3596812514470098&widgetName=sp_phone_search_atf_next",
-    "storeText": "Brand: YBQZ",
-    "details": {
-      "Brand": "YBQZ",
-      "Colour": "17.5 Inch X 7 Ft",
-      "Material": "Ethylene Vinyl Acetate"
-    },
-    "productId": "B09KL28CQT",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41z58X55xQL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator75": {
     "sponsored": true,
@@ -1919,23 +1195,11 @@ const data = {
     "price": null,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator75.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/RFR321-FR320-3-1-Cu-Fridge-Black/dp/B00P84EVMQ/ref=mp_s_a_1_58?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-58",
-    "storeText": "Brand: RCA",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "RCA",
-      "Model name": "FBA_RFR321-Black",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Internal Freezer",
-      "Cooling method": "Compressor",
-      "Item dimensions L x W x H": "47 x 44.9 x 83.3 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B00P84EVMQ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31wx+cwfkgL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator76": {
     "sponsored": true,
@@ -1947,23 +1211,11 @@ const data = {
     "price": 168.59,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator76.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Midea-WHS-87LB1-Compact-Reversible-Refrigerator/dp/B00MVVI1B6/ref=mp_s_a_1_59?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-59",
-    "storeText": "Brand: Midea",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Midea",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "44.5 x 51 x 63 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Electronic",
-      "Capacity": "2.4 Cubic Feet"
-    },
-    "productId": "B00MVVI1B6",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/21oa-cvEL8L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator77": {
     "sponsored": true,
@@ -1975,23 +1227,11 @@ const data = {
     "price": 519.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator77.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Ivation-Compressor-Refrigerator-Freestanding-Temperature/dp/B08618MMP9/ref=mp_s_a_1_60?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-60",
-    "storeText": "Brand: Ivation",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "Ivation",
-      "Form factor": "Dedicated",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Compressor",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "43.9 x 47.5 x 84.1 centimeters",
-      "Lock type": "Key"
-    },
-    "productId": "B08618MMP9",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41p1WqFc4PL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator78": {
     "sponsored": true,
@@ -2000,17 +1240,11 @@ const data = {
     "price": 449.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator78.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Outsunny-Refrigerator-Portable-Freezer-110-240V/dp/B09W221LSH/ref=mp_s_a_1_57?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-57",
-    "storeText": "Visit the Outsunny Store",
-    "details": {
-      "Brand": "Outsunny",
-      "Item dimensions L x W x H": "67.3 x 36.2 x 40.6 centimeters",
-      "Specification met": "CSA",
-      "Number of shelves": "1"
-    },
-    "productId": "B09W221LSH",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41ZME2ZbwhL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator79": {
     "sponsored": true,
@@ -2022,23 +1256,11 @@ const data = {
     "price": 98.66,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator79.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Portable-Mirrored-Personal-Fridge-Refrigerator/dp/B0855FQ2L7/ref=mp_s_a_1_58?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-58",
-    "storeText": "Brand: Chefman",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Chefman",
-      "Model name": "4 Liter Mini Refrigerator,",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Item dimensions L x W x H": "17.8 x 24.1 x 25.4 centimeters",
-      "Inverter type": "No Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B0855FQ2L7",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31Ux6YW8Z5L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator80": {
     "sponsored": true,
@@ -2050,23 +1272,11 @@ const data = {
     "price": 107.01,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator80.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Cooluli-K10LGA-Coca-Cola-Americana-Portable/dp/B07H9J3LNW/ref=mp_s_a_1_59?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-59",
-    "storeText": "Brand: Cooluli",
-    "details": {
-      "Colour": "Coca Cola Americana",
-      "Finish type": "Glossy",
-      "Brand": "Cooluli",
-      "Model name": "Mini Fridge Coca-Cola Americana Retro (10 Liter/12 Can)",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "29 x 23.9 x 34 centimeters",
-      "Inverter type": "Has Inverter"
-    },
-    "productId": "B07H9J3LNW",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51FXhr-ZGSL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator81": {
     "sponsored": true,
@@ -2078,23 +1288,11 @@ const data = {
     "price": 479,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator81.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-DAR044A4BDD-Compact-Refrigerator-Cubic/dp/B00O2MB4AC/ref=mp_s_a_1_60?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-60",
-    "storeText": "Visit the Danby Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Glossy",
-      "Brand": "Danby",
-      "Form factor": "Stand Alone",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "53 x 52.6 x 83.1 centimeters",
-      "Inverter type": "Has Inverter",
-      "Lock type": "Electronic"
-    },
-    "productId": "B00O2MB4AC",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31w92YSFqXL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator82": {
     "sponsored": true,
@@ -2106,18 +1304,11 @@ const data = {
     "price": 24.5,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator82.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg5_1?ie=UTF8&adId=A0370097W772R7CX673H&url=%2FDigital-Refrigerator-Freezer-Thermometer-Function%2Fdp%2FB076ZXB263%2Fref%3Dmp_s_a_1_61_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167450%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-61-spons%26psc%3D1%26smid%3DA2MRYLEZXIRGV5&qualifier=1649167450&id=3596812514470098&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: LinkDm",
-    "details": {
-      "Brand": "LinkDm",
-      "Colour": "White",
-      "Power source": "Battery Powered",
-      "Number of batteries": "1 CR2 batteries required.",
-      "Upper temperature rating": "122 Degrees Fahrenheit"
-    },
-    "productId": "B076ZXB263",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51qGV38ZGbL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator83": {
     "sponsored": true,
@@ -2129,17 +1320,11 @@ const data = {
     "price": 19.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator83.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg5_1?ie=UTF8&adId=A00892261IDNBXHFUP5DE&url=%2FSilicone-Nonslip-Resistant-Multi-Function-Kitchen%2Fdp%2FB08TQPQMT5%2Fref%3Dmp_s_a_1_62_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167450%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-62-spons%26psc%3D1&qualifier=1649167450&id=3596812514470098&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: OJelay",
-    "details": {
-      "Colour": "Blue+Grey",
-      "Material": "Silicone",
-      "Brand": "OJelay",
-      "Shape": "Rectangular"
-    },
-    "productId": "B08TQPQMT5",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51EbOYc17lS._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator84": {
     "sponsored": true,
@@ -2151,23 +1336,11 @@ const data = {
     "price": 89.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator84.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-Mirrored-Cosmetics-Beverages-Medicines/dp/B0851F82H5/ref=mp_s_a_1_63?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-63",
-    "storeText": "Brand: PantsSaver",
-    "details": {
-      "Colour": "Silver",
-      "Finish type": "Glossy",
-      "Brand": "PantsSaver",
-      "Model name": "COSM6",
-      "Form factor": "Side By Side",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "19.6 x 26.7 x 28.4 centimeters"
-    },
-    "productId": "B0851F82H5",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41CsnwqK3oL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator85": {
     "sponsored": true,
@@ -2179,27 +1352,15 @@ const data = {
     "price": 267.76,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator85.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Professional-Smart-Skincare-Fridge-Liter/dp/B09HTWGHYG/ref=mp_s_a_1_64?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-64",
-    "storeText": "Brand: LVARA",
-    "details": {
-      "Colour": "White smart",
-      "Finish type": "Matte",
-      "Brand": "LVARA",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "38.6 x 29.2 x 22.6 centimeters",
-      "Capacity": "9 liters",
-      "Adjustable temperature control": "Yes",
-      "Number of doors": "1"
-    },
-    "productId": "B09HTWGHYG",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31giNA064NL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator86": {
     "sponsored": true,
-    "title": "COSTWAY Car Refrigerator, 58 Quarts DC12-24V, 100-240AC, -4\u00b0F To 50\u00b0F, Dual-zone RV Electric Freezer with LED Panel, Wheels, Handle, portable Car Fridge for Camping, Traveling (Grey)",
+    "title": "COSTWAY Car Refrigerator, 58 Quarts DC12-24V, 100-240AC, -4°F To 50°F, Dual-zone RV Electric Freezer with LED Panel, Wheels, Handle, portable Car Fridge for Camping, Traveling (Grey)",
     "rating": {
       "rating": 5,
       "count": 2
@@ -2207,24 +1368,15 @@ const data = {
     "price": 499.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator86.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/COSTWAY-Refrigerator-100-240AC-Dual-zone-Traveling/dp/B09BZLC4DB/ref=mp_s_a_1_65?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-65",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "Grey",
-      "Finish type": "Matte",
-      "Brand": "COSTWAY",
-      "Item dimensions L x W x H": "63.5 x 34.3 x 50.8 centimeters",
-      "Specification met": "UL",
-      "Capacity": "58 quarts",
-      "Voltage": "12 Volts"
-    },
-    "productId": "B09BZLC4DB",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41XJ9M3iI6L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator87": {
     "sponsored": true,
-    "title": "COSTWAY Compact Refrigerator, 2.6 CU.FT Single Door Mini Refrigerator with Adjustable Temperature 35\u2109 to 50\u2109, Large Capacity, Removable Shelf, Reversible Door (White)",
+    "title": "COSTWAY Compact Refrigerator, 2.6 CU.FT Single Door Mini Refrigerator with Adjustable Temperature 35℉ to 50℉, Large Capacity, Removable Shelf, Reversible Door (White)",
     "rating": {
       "rating": 3,
       "count": 9
@@ -2232,19 +1384,11 @@ const data = {
     "price": 279.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator87.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/COSTWAY-Refrigerator-Adjustable-Temperature-Reversible/dp/B08S34R83H/ref=mp_s_a_1_66?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-66",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "COSTWAY",
-      "Form factor": "Compact",
-      "Item dimensions L x W x H": "44.5 x 45.7 x 67.3 centimeters",
-      "Voltage": "12 Volts"
-    },
-    "productId": "B08S34R83H",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/31e6gqmnHwL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator88": {
     "sponsored": true,
@@ -2256,23 +1400,15 @@ const data = {
     "price": 154.97,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator88.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Coca-Cola-CCR-12-Retro-Fridge/dp/B00B5U9MB2/ref=mp_s_a_1_67?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-67",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "COSTWAY",
-      "Form factor": "Compact",
-      "Item dimensions L x W x H": "44.5 x 45.7 x 67.3 centimeters",
-      "Voltage": "12 Volts"
-    },
-    "productId": "B08S34R83H",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41uWAEZhidL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator89": {
     "sponsored": true,
-    "title": "COSTWAY Portable Car Refrigerator, -14.8\u00b0F to 50\u00b0F, 70-Quart Compressor Travel Fridge with Two-Way Open Door, Operating Panel, Groove Design, Compact RV Cooler and Freezer for Outdoor and Home Use",
+    "title": "COSTWAY Portable Car Refrigerator, -14.8°F to 50°F, 70-Quart Compressor Travel Fridge with Two-Way Open Door, Operating Panel, Groove Design, Compact RV Cooler and Freezer for Outdoor and Home Use",
     "rating": {
       "rating": 4,
       "count": 90
@@ -2280,23 +1416,11 @@ const data = {
     "price": 799.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator89.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/COSTWAY-Portable-Refrigerator-Compressor-Operating/dp/B083QYHHTB/ref=mp_s_a_1_68?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-68",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Colour": "White+Gray+Black",
-      "Finish type": "Stainless steel",
-      "Brand": "COSTWAY",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Compressor",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "67.3 x 45.7 x 54.6 centimeters",
-      "Inverter type": "Has Inverter"
-    },
-    "productId": "B083QYHHTB",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/418VyKve4TL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator90": {
     "sponsored": true,
@@ -2308,16 +1432,11 @@ const data = {
     "price": 229.95,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator90.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Primeco-Replacement-Motherboard-Refrigerator-WPW10312695/dp/B089M14RBJ/ref=mp_s_a_1_69?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167450&sprefix=refrigerator%2Caps%2C114&sr=8-69",
-    "storeText": "Brand: Primeco",
-    "details": {
-      "Brand": "Primeco",
-      "Pattern": "Solid",
-      "Lock type": "Electronic"
-    },
-    "productId": "B089M14RBJ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41Csqc7pE+L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator91": {
     "sponsored": true,
@@ -2329,15 +1448,11 @@ const data = {
     "price": 51.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator91.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg5_1?ie=UTF8&adId=A08605422HYENAHMT98U0&url=%2FRefrigerator-Compatible-Frigidaire-Puresource3-242069601%2Fdp%2FB09KV5HWZN%2Fref%3Dmp_s_a_1_70_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167450%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-70-spons%26psc%3D1&qualifier=1649167450&id=3596812514470098&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: DRINKCLEAR",
-    "details": {
-      "External testing certification": "NSF",
-      "Brand": "DRINKCLEAR"
-    },
-    "productId": "B09KV5HWZN",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41HnD+umSTL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator92": {
     "sponsored": true,
@@ -2349,19 +1464,15 @@ const data = {
     "price": 34.16,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator92.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg5_1?ie=UTF8&adId=A03699411BJ9SQ9LG8XM5&url=%2FPack-Refrigerator-Freezer-Thermometer-Large%2Fdp%2FB07ZDNP838%2Fref%3Dmp_s_a_1_71_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167450%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-71-spons%26psc%3D1&qualifier=1649167450&id=3596812514470098&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: LinkDm",
-    "details": {
-      "Brand": "LinkDm",
-      "Upper temperature rating": "80 Degrees Fahrenheit"
-    },
-    "productId": "B07ZDNP838",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/61gMIu2fpTL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator93": {
     "sponsored": true,
-    "title": "COSTWAY Car Freezer, 63 Quart Compressor Travel Refrigerator -0.4\u00b0F to 50\u00b0F, Portable & Compact Single Door Vehicle Electric Cooler Fridge, Refrigerator with LCD Display & Lighting Bulbs(63 Quart)",
+    "title": "COSTWAY Car Freezer, 63 Quart Compressor Travel Refrigerator -0.4°F to 50°F, Portable & Compact Single Door Vehicle Electric Cooler Fridge, Refrigerator with LCD Display & Lighting Bulbs(63 Quart)",
     "rating": {
       "rating": 4,
       "count": 1
@@ -2369,18 +1480,11 @@ const data = {
     "price": 859.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator93.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_atf_next_aps_sr_pg6_1?ie=UTF8&adId=A01358332K2POXRB011YP&url=%2FCompressor-Refrigerator-Portable-Electric-Lighting%2Fdp%2FB07WGC91B5%2Fref%3Dmp_s_a_1_71_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167525%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-71-spons%26psc%3D1&qualifier=1649167525&id=6765809854364210&widgetName=sp_phone_search_atf_next",
-    "storeText": "Visit the COSTWAY Store",
-    "details": {
-      "Finish type": "Metallic",
-      "Brand": "COSTWAY",
-      "Capacity": "2.1 Cubic Feet",
-      "Number of shelves": "1",
-      "Adjustable temperature control": "Yes"
-    },
-    "productId": "B07WGC91B5",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/413IdoSFkHL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator94": {
     "sponsored": true,
@@ -2392,16 +1496,11 @@ const data = {
     "price": 229.95,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator94.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Primeco-Replacement-Motherboard-Refrigerator-WPW10312695/dp/B089M14RBJ/ref=mp_s_a_1_72?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-72",
-    "storeText": "Brand: Primeco",
-    "details": {
-      "Brand": "Primeco",
-      "Pattern": "Solid",
-      "Lock type": "Electronic"
-    },
-    "productId": "B089M14RBJ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41Csqc7pE+L._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator95": {
     "sponsored": true,
@@ -2410,21 +1509,11 @@ const data = {
     "price": 379.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator95.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Insignia-115-Can-Beverage-NS-BC115SS9-Stainless/dp/B07FPH8ZK7/ref=mp_s_a_1_73?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-73",
-    "storeText": "Brand: Insignia",
-    "details": {
-      "Colour": "Silver",
-      "Finish type": "Stainless steel",
-      "Brand": "Insignia",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Inverter type": "Has Inverter",
-      "Specification met": "Ns",
-      "Capacity": "3.2 Cubic Feet"
-    },
-    "productId": "B07FPH8ZK7",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/519Vf2G-gbL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator96": {
     "sponsored": true,
@@ -2436,27 +1525,15 @@ const data = {
     "price": 519.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator96.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Ivation-Compressor-Refrigerator-Freestanding-Temperature/dp/B08618MMP9/ref=mp_s_a_1_74?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-74",
-    "storeText": "Brand: Ivation",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "Ivation",
-      "Form factor": "Dedicated",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Compressor",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "43.9 x 47.5 x 84.1 centimeters",
-      "Lock type": "Key"
-    },
-    "productId": "B08618MMP9",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41p1WqFc4PL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator97": {
     "sponsored": true,
-    "title": "BougeRV 12V Portable Car Refrigerator, 53qt Freezer Fridge, Fast Cooling (-4\u2109~50\u2109) Car Freezer, 12V/24V DC RV Fridge for Camping Trip, Road Trip, Truck, Boat, Home 110V-240V AC",
+    "title": "BougeRV 12V Portable Car Refrigerator, 53qt Freezer Fridge, Fast Cooling (-4℉~50℉) Car Freezer, 12V/24V DC RV Fridge for Camping Trip, Road Trip, Truck, Boat, Home 110V-240V AC",
     "rating": {
       "rating": 4,
       "count": 339
@@ -2464,23 +1541,11 @@ const data = {
     "price": null,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator97.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/BougeRV-Portable-Freezer-Refrigerator-110V-240V/dp/B0869NCSNH/ref=mp_s_a_1_71?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-71",
-    "storeText": "Visit the BougeRV Store",
-    "details": {
-      "Colour": "Light grey",
-      "Finish type": "Matte",
-      "Brand": "BougeRV",
-      "Model": "53Quart",
-      "Form factor": "Chest",
-      "Pattern": "Striped",
-      "Configuration": "Compact Internal Freezer",
-      "Cooling method": "Compressor",
-      "Energy star": "4 Star",
-      "Item dimensions L x W x H": "57 x 34 x 50 centimeters"
-    },
-    "productId": "B0869NCSNH",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/418qPz7SZdL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator98": {
     "sponsored": true,
@@ -2489,17 +1554,11 @@ const data = {
     "price": 449.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator98.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Outsunny-Refrigerator-Portable-Freezer-110-240V/dp/B09W221LSH/ref=mp_s_a_1_72?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-72",
-    "storeText": "Visit the Outsunny Store",
-    "details": {
-      "Brand": "Outsunny",
-      "Item dimensions L x W x H": "67.3 x 36.2 x 40.6 centimeters",
-      "Specification met": "CSA",
-      "Number of shelves": "1"
-    },
-    "productId": "B09W221LSH",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41ZME2ZbwhL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator99": {
     "sponsored": true,
@@ -2511,16 +1570,11 @@ const data = {
     "price": 27.11,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator99.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/General-Electric-WX08X10015-Refrigerator-Water/dp/B00MOCT9TA/ref=mp_s_a_1_73?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-73",
-    "storeText": "Brand: GE",
-    "details": {
-      "Brand": "GE",
-      "Colour": "White",
-      "Item dimensions L x W x H": "35.6 x 22.9 x 2.3 centimeters"
-    },
-    "productId": "B00MOCT9TA",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41K2TuWTsbL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator100": {
     "sponsored": true,
@@ -2532,23 +1586,11 @@ const data = {
     "price": 69.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator100.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Chefman-Mini-Portable-Personal-Fridge/dp/B09CHCKXW6/ref=mp_s_a_1_74?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-74",
-    "storeText": "Visit the Chefman Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "Chefman",
-      "Model name": "Mini Portable Personal Fridge,",
-      "Form factor": "Compact",
-      "Item dimensions L x W x H": "24.5 x 18.5 x 27 centimeters",
-      "Capacity": "4 liters",
-      "Number of shelves": "1",
-      "Installation type": "Countertop",
-      "Voltage": "120"
-    },
-    "productId": "B09CHCKXW6",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/3160ymAKejL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator101": {
     "sponsored": true,
@@ -2560,15 +1602,11 @@ const data = {
     "price": 16.83,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator101.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg6_1?ie=UTF8&adId=A05324692HXX8S5YMBIQD&url=%2FCooper-Atkins-335-01-1-Refrigerator-Horizontal-Thermometer%2Fdp%2FB00125N8UQ%2Fref%3Dmp_s_a_1_75_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167525%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-75-spons%26psc%3D1&qualifier=1649167525&id=6765809854364210&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: Cooper-Atkins",
-    "details": {
-      "Brand": "Cooper-Atkins",
-      "Unit count": "1 Each"
-    },
-    "productId": "B00125N8UQ",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41Bf7-Q3AGL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator102": {
     "sponsored": true,
@@ -2580,14 +1618,11 @@ const data = {
     "price": 17.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator102.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_mtf_aps_sr_pg6_1?ie=UTF8&adId=A0370377P4TDCRRUG1WR&url=%2FPack-Fridge-Refrigerator-Freezer-Thermometer%2Fdp%2FB085G78G51%2Fref%3Dmp_s_a_1_76_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167525%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-76-spons%26psc%3D1%26smid%3DA2MRYLEZXIRGV5&qualifier=1649167525&id=6765809854364210&widgetName=sp_phone_search_mtf",
-    "storeText": "Brand: SeeZQ",
-    "details": {
-      "Brand": "SeeZQ"
-    },
-    "productId": "B085G78G51",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/5197Nv7F+yL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator103": {
     "sponsored": true,
@@ -2599,23 +1634,11 @@ const data = {
     "price": 72.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator103.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-KRT04-B-Portable-Cooler-Compact/dp/B07VGP5787/ref=mp_s_a_1_77?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-77",
-    "storeText": "Visit the PantsSaver Store",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Metallic",
-      "Brand": "PantsSaver",
-      "Model": "KRT04-B",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "14 x 14 x 20.3 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B07VGP5787",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41lMNyXxDYL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator104": {
     "sponsored": true,
@@ -2627,23 +1650,11 @@ const data = {
     "price": null,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator104.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-DAR044A4BSLDD-6-Cu-Ft-Fridge-Stainless/dp/B07TL6CDHG/ref=mp_s_a_1_78?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-78",
-    "storeText": "Visit the Danby Store",
-    "details": {
-      "Colour": "Stainless Look",
-      "Finish type": "Glossy",
-      "Brand": "Danby",
-      "Model name": "DAR044A4BSLDD-6",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "Yes",
-      "Item dimensions L x W x H": "51.2 x 51.2 x 84.2 centimeters"
-    },
-    "productId": "B07TL6CDHG",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41tDGQ0FnpL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator105": {
     "sponsored": true,
@@ -2655,23 +1666,11 @@ const data = {
     "price": 109.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator105.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-Portable-Personal-Skincare-Cosmetics/dp/B08P23XXCN/ref=mp_s_a_1_79?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-79",
-    "storeText": "Visit the Koolatron Store",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "Koolatron",
-      "Model name": "COSM6 AZ",
-      "Form factor": "Makeup",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "26.7 x 19.6 x 28.4 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B08P23XXCN",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41jOjzozfpL._AC_SY1000_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator106": {
     "sponsored": true,
@@ -2683,23 +1682,11 @@ const data = {
     "price": 399.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator106.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Koolatron-Dual-Cellar-Black-Bottle/dp/B01EJRL7OM/ref=mp_s_a_1_80?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-80",
-    "storeText": "Brand: PantsSaver",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "PantsSaver",
-      "Model name": "WC24",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Item dimensions L x W x H": "35.6 x 50.2 x 81.3 centimeters",
-      "Inverter type": "No Inverter"
-    },
-    "productId": "B01EJRL7OM",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41xdWYsrHwL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator107": {
     "sponsored": true,
@@ -2711,12 +1698,11 @@ const data = {
     "price": 17.99,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator107.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/DA61-06796A-Refrigerator-Evaporator-Replacement-AP5579885/dp/B09JG88ZT6/ref=mp_s_a_1_81?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-81",
-    "storeText": "Brand: YMDparts",
+    "storeText": "",
     "details": {},
-    "productId": "B09JG88ZT6",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/312Wr5xYLYL._AC_SY580_.jpg"
+    "productId": ""
   },
   "refrigerator108": {
     "sponsored": true,
@@ -2728,23 +1714,11 @@ const data = {
     "price": null,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator108.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Danby-Designer-DAR016B1BM-6-Foot-Black-Fridge/dp/B07WG9PN6M/ref=mp_s_a_1_82?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-82",
-    "storeText": "Brand: Danby",
-    "details": {
-      "Colour": "Black",
-      "Finish type": "Matte",
-      "Brand": "Danby",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Compact Freezerless",
-      "Cooling method": "Thermoelectric",
-      "Energy star": "5 Star",
-      "Item dimensions L x W x H": "47.5 x 43.5 x 51.4 centimeters",
-      "Inverter type": "Has Inverter"
-    },
-    "productId": "B07WG9PN6M",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/21NTg1JT9IL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator109": {
     "sponsored": true,
@@ -2756,20 +1730,11 @@ const data = {
     "price": 179.37,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator109.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/Cooluli-Infinity-White-Liter-Fridge/dp/B07Y8TXQHD/ref=mp_s_a_1_83?crid=PNHUGJX5H8A6&keywords=refrigerator&qid=1649167525&sprefix=refrigerator%2Caps%2C114&sr=8-83",
-    "storeText": "Brand: Cooluli",
-    "details": {
-      "Colour": "White",
-      "Finish type": "Glossy",
-      "Brand": "Cooluli",
-      "Model name": "Infinity",
-      "Form factor": "Compact",
-      "Pattern": "Solid",
-      "Configuration": "Freezerless"
-    },
-    "productId": "B07Y8TXQHD",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/11TSJ4spvYL._AC_SY580_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   },
   "refrigerator110": {
     "sponsored": true,
@@ -2781,12 +1746,11 @@ const data = {
     "price": 31.98,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator110.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg6_1?ie=UTF8&adId=A064276416T28ZT7AUBLJ&url=%2FJINAMART-Stackable-Organizer-Container-Refrigerator%2Fdp%2FB097RYKR7K%2Fref%3Dmp_s_a_1_84_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167525%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-84-spons%26psc%3D1&qualifier=1649167525&id=6765809854364210&widgetName=sp_phone_search_btf",
-    "storeText": "Visit the JINAMART Store",
+    "storeText": "",
     "details": {},
-    "productId": "B097RYKR7K",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/41sGoNjvR4L._AC_SY780_.jpg"
+    "productId": ""
   },
   "refrigerator111": {
     "sponsored": true,
@@ -2798,13 +1762,68 @@ const data = {
     "price": 34.13,
     "prime": true,
     "freeShipping": true,
-    "imageSrc": "[pre]refrigerator111.jpg[post]",
+    "imageSrc": "",
     "link": "https://www.amazon.ca/gp/slredirect/picassoRedirect.html/ref=pa_sp_phone_search_btf_aps_sr_pg6_1?ie=UTF8&adId=A0370221CFT67JG0MLV9&url=%2FPack-Fridge-Refrigerator-Freezer-Thermometer%2Fdp%2FB07X53BCHR%2Fref%3Dmp_s_a_1_85_sspa%3Fcrid%3DPNHUGJX5H8A6%26keywords%3Drefrigerator%26qid%3D1649167525%26sprefix%3Drefrigerator%252Caps%252C114%26sr%3D8-85-spons%26psc%3D1&qualifier=1649167525&id=6765809854364210&widgetName=sp_phone_search_btf",
-    "storeText": "Brand: SeeZQ",
-    "details": {
-      "Brand": "SeeZQ"
-    },
-    "productId": "B07X53BCHR",
-    "imageSrcUrl": "https://m.media-amazon.com/images/I/51OqJlj2hWL._AC_SY780_.jpg"
+    "storeText": "",
+    "details": {},
+    "productId": ""
   }
 }
+
+function getStoreText(){
+  return document.querySelector('#bylineInfo').innerText;
+}
+
+function getDetails(){
+  const rows = document.querySelectorAll('#productOverview_feature_div .a-row:not(#poExpander)');
+  const details = {}
+  for (const row of rows){
+    const [k, v] = row.innerText.split('\n');
+    details[k] = v;
+  }
+  return details;
+}
+
+function getProductId(){
+  const currentURL = window.location.href;
+  const match = currentURL.match('\/[A-Z0-9]{10}')
+  return match[0].slice(1)
+}
+
+function getNodeData(){
+  const storeText = getStoreText()
+  const details = getDetails()
+  const productId = getProductId()
+  return {
+    storeText,
+    details,
+    productId,
+  }
+  
+  
+}
+function formatData(data){
+  const {storeText, details, productId} = data
+  return `    "storeText": "${storeText}",
+    "details": ${JSON.stringify(details, null, 2)},
+    "productId": "${productId}",`
+}
+
+let results = {};
+
+window.addEventListener('load', ()=>{
+  results[key] = {...info, ...getNodeData()}
+})
+
+let keyArray = Object.keys(data);
+let i = 0;
+
+for (const key in data){
+  const info = data[key];
+  const { link } = info;
+  window.location = info.link;
+
+  // results[key] = {...info,...getNodeData()};
+}
+
+console.log(JSON.stringify(results, null, 2))

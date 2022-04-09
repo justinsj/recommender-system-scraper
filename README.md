@@ -26,5 +26,7 @@ To start using the software, double-click the `start.bat` file
 ## Usage
 
 ```
-python main.py
+python main.py -o out_path
 ```
+This will write to {out_path} and tmp.{out_path}, default writes to `outfile`.
+Requires that constants/data/data.py has data from executing the `JS/webscraper` in a browser with mobile dimensions (e.g. Samsung Note 20: 415 x 912).

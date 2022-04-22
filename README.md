@@ -1,4 +1,9 @@
-# Rec Sys Ui Scraper
+# Recommender System Scraper
+
+## Related repositories
+
+- [recommender-system-ui](https://github.com/justinsj/recommender-system-ui): Main Amazon-like React Native testing app
+- [recommender-system-analysis](https://github.com/justinsj/recommender-system-analysis): Scripts to perform metric computations 
 
 ## Installation
 The installation is performed once when downloading the software.

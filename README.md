@@ -1,4 +1,7 @@
 # Recommender System Scraper
+This repository is used to acquire data from Amazon's search engine.
+It uses Selenium webdriver to read product information from a list of links.
+It is implemented in Python.
 
 ## Related repositories
 

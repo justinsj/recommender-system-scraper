@@ -38,3 +38,17 @@ python main.py -o out_path
 ```
 This will write to {out_path} and tmp.{out_path}, default writes to `outfile`.
 Requires that constants/data/data.py has data from executing the `JS/webscraper` in a browser with mobile dimensions (e.g. Samsung Note 20: 415 x 912).
+
+## Cite
+
+To cite this project, please consider using the following bibtex:
+```
+@misc{recommender-system-scraper,
+  author = {San Juan, Justin and Chambers, Owen},
+  title = {Tailoring Product Recommendations for Mobile Devices},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/justinsj/recommender-system-scraper}},
+}
+```
